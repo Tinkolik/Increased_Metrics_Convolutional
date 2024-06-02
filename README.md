@@ -54,6 +54,6 @@
 
 ![dataset_preview](/confusion_10.png)
 
-**Матрица ошибок (Первые 10 классов):**
+**Матрица ошибок:**
 
 ![dataset_preview](/full_confusion.png)
