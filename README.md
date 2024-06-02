@@ -1,2 +1,17 @@
-# Increased_Metrics_Convolutional
-Lab 4. Trying to increase accuracy of a convolutional neural network classificator
+## Лабораторная №4
+
+Ссылка на датасет: https://www.kaggle.com/datasets/lantian773030/pokemonclassification
+
+В прошлой лабораторной работе, после исправления ошибки у сверточной нейронной сети для классификации изображений покемонов получилась точность классификации = 39.67%.
+
+#Попробуем увеличить метрики в данной лабораторной работе.
+
+Классификатор обучился с точностью 92,34%
+
+Полученные метрики:
+
+Accuracy = 0.9233658903080391 
+
+Precision = 0.9334479670656142 
+
+Recall = 0.9279691512191512
